@@ -89,6 +89,7 @@
       ]
     }
   ],
+  "openapi": ["/openapi.yml"],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
